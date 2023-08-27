@@ -1,2 +1,3 @@
 # apnacollege-demo
-repo
+this is repo
+author-shruti
