@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is repo.
 <br>
-author-shruti
+author-shruti maheshwari
